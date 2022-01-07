@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/App.css"],"names":[],"mappings":"AAAA,KACE,wBACF,CAGA,cACE,oBACF","file":"main.abb0ab01.chunk.css","sourcesContent":["body{\n  background-color: whitesmoke;\n}\n\n\n.navbar-brand{\n  text-decoration: none;\n}\n\n\n\n\n\n\n\n"]}
